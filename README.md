@@ -32,6 +32,7 @@ SHAP · seaborn · matplotlib · SQLite
 
 - **[Google Data Analytics Professional Certificate](https://www.credly.com/badges/2ab6f488-a237-4700-80a3-d3960bd39136)** — Coursera / Google
 - **[Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/e3f50e0d-b330-4348-86e8-d96597a54942)** — Coursera / Google
+- **[Google AI Professional Certificate](https://www.credly.com/earner/earned/badge/098cfd98-fe08-4a87-8a30-cdb4810b7c91)** — Coursera / Google
 - **ISC2 Certified in Cybersecurity (CC)** — *In progress*
 
 ---
